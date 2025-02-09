@@ -97,7 +97,7 @@ It's important to note that Morgen is solely a calendar client. Your events rema
 
 To address this concern, Morgen offers CalDAV integration, giving you the ability to self-host your calendar and maintain full control over your schedule and organizational data. This way, your life's routines and sensitive information stay truly yours.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/8TXingj9aRY?si=WBFD-fyxZOFMZJ5m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Watch this video](https://img.youtube.com/vi/8TXingj9aRY/maxresdefault.jpg)](https://www.youtube.com/watch?v=8TXingj9aRY)
 
 ## What's Next?
 
